@@ -1,4 +1,4 @@
 # guile-dbd-sqlite3
-[Guile-dbi](http://home.gna.org/guile-dbi/) database driver for [sqlite](http://sqlite.org/) version 3
+newer version hosted [here](https://github.com/opencog/guile-dbi/tree/master).
 
-Source code for the officially hosted guile-dbd-sqlite3 package
+Source code for an sqlite3 driver for guile-dbi.
